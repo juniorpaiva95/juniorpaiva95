@@ -2,7 +2,7 @@
  🖖 Hi, my name is Junior! Let's Build 👨‍💻
 </p>
 <p align="left">
- ☕ Technical Skills: <strong> Laravel / Java / Node / React JS / MySQL / WordPress / A.I. Prompts / C </strong>
+ ☕ Technical Skills: <strong> Laravel / Java / Node / React JS / React Native / Ionic Framework / VueJS / Angular / NestJS / A.I. Prompts  </strong>
 </p>
 
 <a href="https://github.com/kauanmodolo/github-readme-stats">
@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  
 <div> 
     <a href="https://www.linkedin.com/in/joselito-paiva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
-  <a href="https://instagram.com/kau_modolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://instagram.com/kau_modolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:juniorpaiva95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   
